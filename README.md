@@ -1,1 +1,2 @@
 # PRODIGY_DS_05
+This notebook analyzes a bank-related dataset to understand customer behavior. Using Python libraries like pandas and numpy, we cleaned the data, handled missing values, and removed duplicates. We then employed visualization tools such as matplotlib and seaborn to explore patterns, including the distribution of key features like customer location. This analysis provides valuable insights into customer trends and behaviors.
